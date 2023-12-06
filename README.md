@@ -1,0 +1,2 @@
+# OnlineStoreTests
+smokeTestsOnlineStore
